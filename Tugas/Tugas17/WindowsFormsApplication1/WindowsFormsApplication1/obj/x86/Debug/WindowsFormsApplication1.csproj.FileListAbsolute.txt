@@ -1,0 +1,28 @@
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

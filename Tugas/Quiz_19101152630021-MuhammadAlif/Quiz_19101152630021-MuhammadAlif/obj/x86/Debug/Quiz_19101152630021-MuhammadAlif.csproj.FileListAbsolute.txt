@@ -1,0 +1,10 @@
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\bin\Debug\Quiz_19101152630021-MuhammadAlif.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\bin\Debug\Quiz_19101152630021-MuhammadAlif.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021_MuhammadAlif.Form1.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021_MuhammadAlif.Properties.Resources.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.csproj.GenerateResource.Cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.csprojResolveAssemblyReference.cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Quiz_19101152630021-MuhammadAlif\Quiz_19101152630021-MuhammadAlif\obj\x86\Debug\Quiz_19101152630021-MuhammadAlif.pdb

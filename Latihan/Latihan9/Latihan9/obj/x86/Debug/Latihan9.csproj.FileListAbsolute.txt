@@ -1,0 +1,7 @@
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\bin\Debug\Latihan9.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\bin\Debug\Latihan9.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\obj\x86\Debug\Latihan9.Form1.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\obj\x86\Debug\Latihan9.Properties.Resources.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\obj\x86\Debug\Latihan9.csproj.GenerateResource.Cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\obj\x86\Debug\Latihan9.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan9\Latihan9\obj\x86\Debug\Latihan9.pdb

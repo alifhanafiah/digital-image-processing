@@ -1,0 +1,19 @@
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Sumijan\PraktekIDIP\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+<<<<<<< HEAD
+D:\UN-SANTUY\Programs\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+D:\UN-SANTUY\Programs\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan17\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+=======
+>>>>>>> ff9078a6563ede5ecd4011ac07c7277b6d6cddbb

@@ -1,0 +1,10 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\bin\Debug\Tugas7.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\bin\Debug\Tugas7.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.csprojResolveAssemblyReference.cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas7\Tugas7\obj\x86\Debug\Tugas7.pdb

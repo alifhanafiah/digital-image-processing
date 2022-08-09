@@ -1,0 +1,16 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\bin\Debug\Tugas13.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\bin\Debug\Tugas13.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.csprojResolveAssemblyReference.cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\bin\Debug\Tugas13.exe
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\bin\Debug\Tugas13.pdb
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.csprojResolveAssemblyReference.cache
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.Form1.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.Properties.Resources.resources
+D:\UN-SANTUY\Visual Studio Project\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas13\Tugas13\obj\x86\Debug\Tugas13.csproj.GenerateResource.Cache

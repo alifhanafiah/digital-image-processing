@@ -1,0 +1,9 @@
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\bin\Debug\TugasScript.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\bin\Debug\TugasScript.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.csproj.GenerateResource.Cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\TugasScript\TugasScript\obj\x86\Debug\TugasScript.pdb

@@ -1,0 +1,15 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\bin\Debug\Tugas3.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\bin\Debug\Tugas3.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\bin\Debug\Tugas3.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\bin\Debug\Tugas3.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas3\Tugas3\obj\x86\Debug\Tugas3.csproj.GenerateResource.Cache

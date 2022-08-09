@@ -1,0 +1,7 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\bin\Debug\Latihan7.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\bin\Debug\Latihan7.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\obj\x86\Debug\Latihan7.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\obj\x86\Debug\Latihan7.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\obj\x86\Debug\Latihan7.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\obj\x86\Debug\Latihan7.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan7\Latihan7\obj\x86\Debug\Latihan7.pdb

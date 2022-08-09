@@ -1,0 +1,7 @@
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\bin\Debug\Tugas2.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\bin\Debug\Tugas2.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\obj\x86\Debug\Tugas2.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\obj\x86\Debug\Tugas2.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\obj\x86\Debug\Tugas2.csproj.GenerateResource.Cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\obj\x86\Debug\Tugas2.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas2\Tugas2\obj\x86\Debug\Tugas2.pdb

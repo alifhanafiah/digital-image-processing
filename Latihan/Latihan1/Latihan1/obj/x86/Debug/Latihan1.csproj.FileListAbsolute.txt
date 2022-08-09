@@ -1,0 +1,24 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\2\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csproj.GenerateResource.Cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\bin\Debug\Latihan1.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan1\Latihan1\obj\x86\Debug\Latihan1.csproj.GenerateResource.Cache

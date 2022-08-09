@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tugas7", "Tugas7\Tugas7.csproj", "{9A193E9A-1973-45E6-A06E-6C8F722967C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A193E9A-1973-45E6-A06E-6C8F722967C0}.Debug|x86.ActiveCfg = Debug|x86
+		{9A193E9A-1973-45E6-A06E-6C8F722967C0}.Debug|x86.Build.0 = Debug|x86
+		{9A193E9A-1973-45E6-A06E-6C8F722967C0}.Release|x86.ActiveCfg = Release|x86
+		{9A193E9A-1973-45E6-A06E-6C8F722967C0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

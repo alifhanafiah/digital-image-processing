@@ -1,0 +1,16 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\bin\Debug\Latihan2.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\bin\Debug\Latihan2.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\bin\Debug\Latihan2.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\bin\Debug\Latihan2.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.csprojResolveAssemblyReference.cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan2\Latihan2\obj\x86\Debug\Latihan2.csproj.GenerateResource.Cache

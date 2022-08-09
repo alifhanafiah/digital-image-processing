@@ -1,0 +1,7 @@
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\obj\x86\Debug\Latihan4.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\obj\x86\Debug\Latihan4.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\obj\x86\Debug\Latihan4.csproj.GenerateResource.Cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\bin\Debug\Latihan4.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\bin\Debug\Latihan4.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\obj\x86\Debug\Latihan4.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Latihan\Latihan4\Latihan4\obj\x86\Debug\Latihan4.pdb

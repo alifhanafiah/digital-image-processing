@@ -1,0 +1,8 @@
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\bin\Debug\Tugas5.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\bin\Debug\Tugas5.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.Form1.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.Properties.Resources.resources
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.csproj.GenerateResource.Cache
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.exe
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.pdb
+D:\..WAIT\Semester 6\2 Digital Image Processing\.repo\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas5\Tugas5\obj\x86\Debug\Tugas5.csprojResolveAssemblyReference.cache

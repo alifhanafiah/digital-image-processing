@@ -1,0 +1,7 @@
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\bin\Debug\Tugas1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\bin\Debug\Tugas1.pdb
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\obj\x86\Debug\Tugas1.Form1.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\obj\x86\Debug\Tugas1.Properties.Resources.resources
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\obj\x86\Debug\Tugas1.csproj.GenerateResource.Cache
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\obj\x86\Debug\Tugas1.exe
+E:\19101152630021 Muhammad Alif Hanafiah\Tugas\Tugas1\Tugas1\obj\x86\Debug\Tugas1.pdb
